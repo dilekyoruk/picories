@@ -1,6 +1,8 @@
 # Picories
 This is a sample project for Coyotiv School of Engineering
 
+## DESCRIPTION
+
 ## LICENCE
 ```
 MIT License
